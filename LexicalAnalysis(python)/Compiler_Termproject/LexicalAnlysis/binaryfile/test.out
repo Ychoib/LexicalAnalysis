@@ -1,0 +1,4 @@
+- TokenName: INT
+  value: '-0'
+- TokenName: EOF
+  value: EOF
